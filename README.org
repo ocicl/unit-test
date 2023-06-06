@@ -1,0 +1,9 @@
+* unit-test
+
+Unit-testing framework for common lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/hanshuebner/unit-test.git |
+| commit  | 266afaf                                          |
+| systems | unit-test                                        |
+|---------+--------------------------------------------------|
